@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run tests" type="GoTestRunConfiguration" factoryName="Go Test">
+    <module name="interkassa" />
+    <working_directory value="$PROJECT_DIR$" />
+    <envs>
+      <env name="KASSA_ID" value="619250629355134edf3860f1" />
+      <env name="KASSA_SIGN_ALGORITHM" value="sha256" />
+      <env name="KASSA_SIGN_KEY" value="CTPbuzgGxGBIRXcg" />
+      <env name="KASSA_SIGN_TEST_KEY" value="txdUUmuW7c73HplQ" />
+    </envs>
+    <kind value="DIRECTORY" />
+    <package value="github.com/qystishere/interkassa" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <framework value="gotest" />
+    <method v="2" />
+  </configuration>
+</component>
