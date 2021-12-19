@@ -1,7 +1,5 @@
 ## Golang https://interkassa.com/ api wrapper (WIP)
 
-### Как использовать
-
 ```go
 package main
 
